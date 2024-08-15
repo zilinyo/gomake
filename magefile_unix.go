@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/openimsdk/gomake/mageutil"
+	"github.com/zilinyo/gomake/mageutil"
 	"syscall"
 )
 
